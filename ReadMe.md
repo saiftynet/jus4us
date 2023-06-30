@@ -24,6 +24,6 @@ Many of you have products they can create or services they can provide.
 * Connecting multiple small business bring benefits of scale
 * Identifies individuals with time and skills
 * Connects them to individuals with resources
-* Makes it easy and attractive to start small and thing big 
+* Makes it easy and attractive to start small and think big 
 * Focuses on sustainability using local reources
 * Naturally decentralised and self supporting
